@@ -90,4 +90,4 @@ Key observation:
 - Knowledge distillation does **not** reduce parameters; it transfers decision boundaries to a smaller network, improving accuracy at the **same compute budget**.
 
 ## Repository
-- contains the main file `Project_Binary_Classification_Image_tampering.py` with entire code
+- contains the main file `Project_Binary_Classification_for_Image_tampering.py` with entire code
